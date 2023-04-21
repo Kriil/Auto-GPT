@@ -1,0 +1,2 @@
+File Operation Logger write: bug_testing.txt
+write: business_ideas_summary.txt

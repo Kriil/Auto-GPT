@@ -1,0 +1,22 @@
+Creating and selling prints:
+
+Summary:
+Creating and selling prints involves setting up an online store using Shopify and selling prints through various channels such as an online store, point of sale, and wholesale marketplace. Tools for marketing, managing payments, and fulfillment are also available.
+
+Systems List:
+Virtual Systems:
+- Shopify
+
+Physical Systems:
+- Printer
+- Computer
+- Packaging materials
+
+Workflow:
+1. Client visits online store and selects prints to purchase.
+2. Client adds prints to cart and proceeds to checkout.
+3. Client enters payment and shipping information.
+4. Payment is processed and order is received by seller.
+5. Seller prints order and packages prints for shipping.
+6. Seller ships order to client.
+7. Client receives prints and confirms receipt.
